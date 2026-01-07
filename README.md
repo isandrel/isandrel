@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="assets/header.png" alt="Isandrel - Software Development Engineer" width="100%"/>
-</p>
-
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/isandrel">
