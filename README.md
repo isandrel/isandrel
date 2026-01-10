@@ -93,6 +93,8 @@ I'm **Isandrel**, a passionate Software Development Engineer focused on building
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/isandrel/isandrel/output/github-contribution-grid-snake.svg" />
 </picture>
 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=isandrel&show_icons=true&theme=radical)
+
 ---
 
 ### 🔗 Connect with Me
